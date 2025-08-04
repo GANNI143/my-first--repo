@@ -1,0 +1,5 @@
+Name: GANNI SRAVANI
+Age: 18
+Education : Degree(under-graduate)
+address: Visakhapatnam
+skills: c, python, html,css
